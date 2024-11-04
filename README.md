@@ -1,8 +1,8 @@
 # Hi, I'm Anagha!
 
-👩🏻‍💻 Data Science Intern @ Luminar Technolab, Kochi<br/>
-👩🏻‍🎓 Civil Engineering graduate from Govt Engineering College, Thrissur<br/>
-💭 Currently learning about data analytics and data visualization<br/>
+👩🏻‍💻 Data Science Intern @ Luminar Technolab, Kochi.<br/>
+👩🏻‍🎓 Civil Engineering graduate from Govt Engineering College, Thrissur.<br/>
+💭 Currently learning about data analytics and data visualization.<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=anaghaprakash5&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
